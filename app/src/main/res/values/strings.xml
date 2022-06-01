@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Battery</string>
+    <string name="si">SI</string>
+    <string name="no">NO</string>
+</resources>
